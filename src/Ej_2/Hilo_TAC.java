@@ -1,5 +1,6 @@
+package Ej_2;
 
-public class Hilo_TAC extends Thread{
+public class Hilo_TAC implements Runnable{
 
 
 	public void run() {

@@ -1,5 +1,5 @@
 
-public class Hilo_TIC implements Runnable {
+public class Hilo_TIC extends Thread{
 
 	public void run() {
 		while(true) {
