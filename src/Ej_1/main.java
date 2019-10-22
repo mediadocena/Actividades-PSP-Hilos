@@ -1,3 +1,4 @@
+package Ej_1;
 
 public class main {
 

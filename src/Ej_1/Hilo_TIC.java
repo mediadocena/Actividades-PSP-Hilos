@@ -1,4 +1,4 @@
-
+package Ej_1;
 public class Hilo_TIC extends Thread{
 
 	public void run() {
